@@ -1,3 +1,5 @@
 lechuga
 maiz
 cebolla
+pechuga
+jamon
